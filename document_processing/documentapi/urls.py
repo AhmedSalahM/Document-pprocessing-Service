@@ -1,8 +1,8 @@
 from django.urls import path
-from .views import UploadFileView, ListImagesView, ListPDFsView, ImageDetailView, PDFDetailView,upload_image,upload_pdf,RotateImageView,ConvertPDFToImageView
+from .views import  ListImagesView, ListPDFsView, ImageDetailView, PDFDetailView,upload_image,upload_pdf,RotateImageView,ConvertPDFToImageView
 
 urlpatterns = [
-    path('upload/', UploadFileView.as_view(), name='upload-file'),
+    
     path('uploadimage/', upload_image.as_view(), name='upload-image'),
     path('uploadpdf/', upload_pdf.as_view(), name='upload-pdf'),
 
