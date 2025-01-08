@@ -4,7 +4,7 @@
 Created a Django project and a REST API using Django Rest Framework (DRF).
 
 ## Dockerize the Django project for easy deployment and testing
-## Website Link
+## API Endpoint
 https://ahmedsalah2025.pythonanywhere.com/api/images/
 ## Sample output
 ![Output_example](https://github.com/user-attachments/assets/8685d501-c31f-4a50-80a2-e1cad8219fd2)
