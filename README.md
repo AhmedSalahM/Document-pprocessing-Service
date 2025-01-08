@@ -21,4 +21,5 @@ the PDF to an image, and returns the image.
 # Website Link
 https://ahmedsalah2025.pythonanywhere.com/api/images/
 # Sample output
-https://github.com/AhmedSalahM/Document-processing-Service/blob/main/document_processing/Output_example.png
+![Output_example](https://github.com/user-attachments/assets/8685d501-c31f-4a50-80a2-e1cad8219fd2)
+
